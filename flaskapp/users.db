@@ -1,0 +1,28 @@
+SQLite format 3^@^P^@^A^A^@@  ^@^@^@^N^@^@^@^C^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^D^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^N^@.v�
+^@^@^@^B^N�^@^O^]^N�^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@>    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    username TEXT NOT NULL,
+    password TEXT NOT NULL,
+    email TEXT NOT NULL,
+    firstname TEXT NOT NULL,
+    lastname TEXT NOT NULL
+)
+^@^@^@
+^Nc^@^O�^O�^O�^OX^OO^OF^O ^O^W^N�^N�^N�^N�^Nc^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^>^G^@^U^U)^U^[madimadimadi@email.commadicoulson%^L^G^@^Y^Y^Y^W^[fdasfdfdasdffdassafdasffdsafdf ^K^G^@^]^W^U^S^Wdddddsafsafsdasfdddddsasf^Y
+^G^@^U^S^U^U^Sggcxbcxvbcxcxvbxbv$       ^G^@^W^[^W^Y^Ydsafadsafdsadsfasfasdasasfdds^G^H^G^@
+
+
+
+
+$^G^G^@^W^[^Y^W^Yfasfasadfsaddfsadssadsfasdfas^G^F^G^@
+
+
+
+
+^G^E^G^@
+
+
+
+
++^D^G^@^_^U%^U^[madi userpasscoulsonemailmadicoulson^[^C^G^@^U^U^W^U^Sadfssadfsadfdsafdsaf^[^B^G^@^U^U^W^U^Sadfssadfsadfdsafdsaf?^A^G^@^]#5^_^]testuserpassword123testuser@example.comtestfirsttestlast
+^@^@^@^A^O�^@^O�^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@>
+
